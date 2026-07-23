@@ -1,2 +1,2 @@
-# AULA1-PAULO-OTAVIO
+# otaviopmoraes
 Primeiro projeto HTML de Paulo Otávio
